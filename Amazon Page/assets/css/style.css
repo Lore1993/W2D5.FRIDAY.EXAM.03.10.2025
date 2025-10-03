@@ -1,1 +1,75 @@
-/* Your styles here */
+/* GENERALI */
+  a{font-family: Arial, Helvetica, sans-serif; color: white; text-decoration: none; }
+
+
+/* invocazioni */
+
+.bannerl {height: 5vh;
+padding-bottom: 1%;
+}
+.logo {
+    display: inline-block;
+    text-align: left;
+  width: 8%;      
+  height: auto;    
+  padding-left: 3%;
+}
+#bannera {
+padding-left: 1%;
+padding-bottom: 0.3%;
+padding-top: 0.3%;
+
+}
+a.pad {margin-right: 0.7%;}
+
+/* MAIN */
+#mainlargeness {
+  display: block;       
+  width: 87vw;           
+  margin: 0 auto;        
+  text-align: center;    
+}
+
+#bano {
+ display: block;
+ height: 1.6em;
+  width: 100%;            
+  text-align: center;
+  margin-top: 3vh;
+}
+
+#orangeban {
+  font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0.7vh;
+  color: white;  
+}
+
+
+
+#grbanner { margin-top: 3vh;       
+  width: 100%;            
+  text-align: center;}
+#gbanner { width: 100%;          
+  height: auto;          
+  display: block; }
+
+.blackt {text-align: left;font-family: Arial, Helvetica, sans-serif; color: black;}
+.ablu {color: #0e8bdc; font-size: 0.8em;}
+
+#imgban {margin-top: 3vh; border-radius: 2%; margin-bottom: 3vh;}
+.img {display: inline-block; text-align: center;}
+
+.imgimg { display: inline-block;
+    height: 40vh; width: 24%; vertical-align: top; object-fit: cover;}
+
+
+
+    .gaming {  display: block;       
+  width: 87vw; 
+  height: 40vh;          
+  margin: 0 auto;        
+  text-align: center;  }
+  
+  .central { text-align: center; margin-bottom: 3vh;}
+  .foot {text-align: center;}
+  #piede {display: inline-block; text-align: center;}
